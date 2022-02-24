@@ -7,5 +7,5 @@ Features: <br />
 - Ability to modify on the data including the picture.
 - Theme changer (which changes the color of the entire app based on user choice).
 
-ScreanShots:
+ScreanShots:<br />
 ![pjimage (2)](https://user-images.githubusercontent.com/60311634/155451567-37b1bd5b-23e4-472d-b840-231b7f617b63.jpg)
